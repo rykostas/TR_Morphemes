@@ -12,8 +12,8 @@ Turkish is a canonical agglutinative language in terms of word production struct
 
 ```
 Example;
+
 | yaz | -abil | -ir | -sin |
-| :------ | :------ | :------ | :------ |
 | verb(base form) | can(ability) | tense(simple present) | personal pronoun(you-singular) |
 ```
 
