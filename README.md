@@ -11,7 +11,8 @@ In languages with aggluginative structure, words acquire new meanings by affixes
 Turkish is a canonical agglutinative language in terms of word production structure. In Turkish, words are formed by suffixes and there are no prefixes.
 
 Example;
-
+root  | suffix | suffix | suffix
+------------- | -------------
 yaz | -abil | -ir | -sin 
 verb(base form) | can(ability) | tense(simple present) | personal pronoun(you-singular) 
 
@@ -19,13 +20,13 @@ verb(base form) | can(ability) | tense(simple present) | personal pronoun(you-si
 
 Despite the common belief that there is no prefix in Turkish, there are some western&eastern based borrowed prefixes.Also, in some cases the words appears as if they have a prefix. The exceptions that create this controversial situation can be listed as follows.
 
-*Compound words
- *ex:asteğmen, ilköğretim, küçükbaş, çokgen, etc.
-*Reinforced words
- *ex:güpgüzel, bembeyaz, (sandalye) mandalye, (ev) mev, etc.
+* Compound words
+ * ex:asteğmen, ilköğretim, küçükbaş, çokgen, etc.
+* Reinforced words
+ * ex:güpgüzel, bembeyaz, (sandalye) mandalye, (ev) mev, etc.
 
 Some Western based prefixes
-*Note:Some suffixes can be used in more than one language. For example, the suffix "contra" is of Latin origin, and it is controversial whether it has passed into our language through French or Italian.
+* Note:Some suffixes can be used in more than one language. For example, the suffix "contra" is of Latin origin, and it is controversial whether it has passed into our language through French or Italian.
 Language  | prefix
 ------------- | -------------
 Latin  | a-, an-, anti-, inter-, ko-, re-, sür-, maxi-
