@@ -6,13 +6,16 @@ In the early 19th century, The hypothesis of Ural-Altaic language family was an 
 
 ## Agglutinative language
 
-In languages with aggluginative structure, words acquire new meanings by affixes. Smallest linguistic unit is called morphemes and can be prefixes and suffixes as well as the root/base form of the word. The sequential addition of morphemes is expressed by the metaphor "beads on a string".For Morphological Typology topic, you can see Introduction to Linguistic Science notes of Berkeley university by Jonathan Manker (26 February 2016)[here](http://linguistics.berkeley.edu/~jtmanker/Morphological%20Typology%20-%20Spring%202016%20-%20Ling%20100%20Guest%20Lecture.pdf). 
+In languages with aggluginative structure, words acquire new meanings by affixes. Smallest linguistic unit is called morphemes and can be prefixes and suffixes as well as the root/base form of the word. The sequential addition of morphemes is expressed by the metaphor "beads on a string".
+
+For Morphological Typology topic, you can see [Introduction to Linguistic Science notes of Berkeley university by Jonathan Manker(26 February 2016)](http://linguistics.berkeley.edu/~jtmanker/Morphological%20Typology%20-%20Spring%202016%20-%20Ling%20100%20Guest%20Lecture.pdf). 
 
 Turkish is a canonical agglutinative language in terms of word production structure. In Turkish, words are formed by suffixes and there are no prefixes.
 
 Example;
+
 root  | suffix | suffix | suffix
-------------- | -------------
+------------- | ------------- | ------------- | -------------
 yaz | -abil | -ir | -sin 
 verb(base form) | can(ability) | tense(simple present) | personal pronoun(you-singular) 
 
@@ -27,6 +30,7 @@ Despite the common belief that there is no prefix in Turkish, there are some wes
 
 Some Western based prefixes
 * Note:Some suffixes can be used in more than one language. For example, the suffix "contra" is of Latin origin, and it is controversial whether it has passed into our language through French or Italian.
+
 Language  | prefix
 ------------- | -------------
 Latin  | a-, an-, anti-, inter-, ko-, re-, sür-, maxi-
