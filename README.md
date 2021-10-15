@@ -10,11 +10,12 @@ In languages with aggluginative structure, words acquire new meanings by affixes
 
 Turkish is a canonical agglutinative language in terms of word production structure. In Turkish, words are formed by suffixes and there are no prefixes.
 
+```
 Example;
-yaz | -abil | -ir | -sin |
-verb(base form) | can(ability) | tense(simple present) | personal pronoun(you-singular) |
-
-
+| yaz | -abil | -ir | -sin |
+| :------ | :------ | :------ | :------ |
+| verb(base form) | can(ability) | tense(simple present) | personal pronoun(you-singular) |
+```
 
 
 
